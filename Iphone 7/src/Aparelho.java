@@ -2,9 +2,9 @@ public class Aparelho {
    
     package aparelho;
 
-import aparelho.aparelhotelefonico.TelefoneIntfc;
-import aparelho.navegadorinternet.NavegadorIntf;
-import aparelho.reprodutormusical.ReproducaoIntfc;
+    import aparelho.aparelhotelefonico.TelefoneIntfc;
+    import aparelho.navegadorinternet.NavegadorIntf;
+    import aparelho.reprodutormusical.ReproducaoIntfc;
 
 /**
  * Classe com Herança Múltipla.
